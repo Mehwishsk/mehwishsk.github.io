@@ -46,8 +46,7 @@ I am a Business and Data Analyst with experience across insurance claims, travel
 ![Power BI Insurance 2](Power%20Bi%20Insurance.%202%20jpg.jpg)
 ![Power BI Insurance 3](Power%20Bi%20Insurance%20Dashboard%20.jpg)
 ![Insurance Excel](Insurance%20Excel%20Dashboard.jpg)
-![Insurance Tableau](Insurance%20Tableu%20Dashboard.jpg
-
+![Insurance Tableau](Insurance%20Tableu%20Dashboard.jpg)
 
 
 ## Project Files
