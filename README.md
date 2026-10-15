@@ -33,16 +33,22 @@ I am a Business and Data Analyst with experience across insurance claims, travel
 ![Excel Hospitality 2](Dashboard%20Excel%20Hospitality%202.jpg)
 
 ### Tableau Dashboards
-![Tableau Hospitality](Dashboard-Tableau-Hospitality.jpg)
-![Tableau Hospitality 2](Dashboard-Tableau-Hospitality.jpg)
+![Tableau Hospitality 1](Tableu%20Hospitality%20Dashboard.jpg)
+![Tableau Hospitality 2](Tableu%20Hospitality%20Dashboard%202.jpg)
 
 ## Insurance Analysis Project
 
-**Tools:** Tableau, Excel
+**Tools:** Power BI, Tableau, Excel
 
 ### Insurance Dashboards
+
+![Power BI Insurance 1](Power%20Bi%20Insurance.jpg)
+![Power BI Insurance 2](Power%20Bi%20Insurance.%202%20jpg.jpg)
+![Power BI Insurance 3](Power%20Bi%20Insurance%20Dashboard%20.jpg)
 ![Insurance Excel](Insurance%20Excel%20Dashboard.jpg)
-![Insurance Tableau](Insurance%20Tableu%20Dashboard.jpg)
+![Insurance Tableau](Insurance%20Tableu%20Dashboard.jpg
+
+
 
 ## Project Files
 - [Power BI Dashboard](Hospitality%20Analysis%20Dashboards.pbix)
