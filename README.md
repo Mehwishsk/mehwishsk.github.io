@@ -12,21 +12,39 @@ I am a Business and Data Analyst with experience across insurance claims, travel
 - **Data Preparation:** Data Cleaning, Validation and Reconciliation
 - **Business Analysis:** KPI Reporting, Trend Analysis, Process Improvement
 
-## Featured Projects
+## Hospitality Analysis Project
 
-### 1. Hospitality Performance Analytics
-Analysed hotel booking and operational performance, including revenue, occupancy, ADR, RevPAR, cancellations and booking-platform trends.
+**Tools:** Power BI, Tableau, Excel, SQL
 
-**Tools:** SQL, Excel, Power BI, Tableau
+**What I did:**
+- Analysed hospitality data to track revenue, occupancy and guest trends
+- Wrote SQL queries to clean and aggregate the data
+- Built interactive dashboards in Power BI and Excel
 
-[View Hospitality Project](ADD_YOUR_REPOSITORY_LINK)
+### Power BI Dashboards
+![Power BI 1](Dashboard%20Power%20BI.jpg)
+![Power BI 2](Dashboard%20Power%20BI%202.jpg)
+![Power BI 3](Dashboard%20Power%20BI%203.jpg)
+![Power BI 4](Dashboard%20Power%20BI%204.jpg)
+![Power BI 5](Dashboard%20Power%20BI%205.jpg)
 
-### 2. Insurance Analytics Dashboard
-Prepared policy and claims data and developed performance indicators for premiums, claims, average claim values and policy status.
+### Excel Dashboards
+![Excel Hospitality 1](Dashboard%20Excel%20Hopitality.jpg)
+![Excel Hospitality 2](Dashboard%20Excel%20Hospitality%202.jpg)
 
-**Tools:** Excel, Power BI
+## Insurance Analysis Project
 
-[View Insurance Project](ADD_YOUR_REPOSITORY_LINK)
+**Tools:** Tableau, Excel
+
+### Insurance Dashboards
+![Insurance Excel](Insurance%20Excel%20Dashboard.jpg)
+![Insurance Tableau](Insurance%20Tableu%20Dashboard.jpg)
+
+## Project Files
+- [Power BI Dashboard](Hospitality%20Analysis%20Dashboards.pbix)
+- [Excel Dashboard](Hospitality%20Dashboard_Final.xlsx)
+- [SQL Script](Project%20final.sql)
+- [Tableau Workbook](Tableau.twbx)
 
 ## Core Strengths
 - Business and operational analysis
