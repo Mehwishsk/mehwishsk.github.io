@@ -32,6 +32,10 @@ I am a Business and Data Analyst with experience across insurance claims, travel
 ![Excel Hospitality 1](Dashboard%20Excel%20Hopitality.jpg)
 ![Excel Hospitality 2](Dashboard%20Excel%20Hospitality%202.jpg)
 
+### Tableau Dashboards
+![Tableau Hospitality](Dashboard-Tableau-Hospitality.jpg)
+![Tableau Hospitality 2](Dashboard-Tableau-Hospitality.jpg)
+
 ## Insurance Analysis Project
 
 **Tools:** Tableau, Excel
